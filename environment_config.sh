@@ -48,6 +48,7 @@ else
         jupyter \
         notebook \
         ipykernel \
+        matplotlib \
         -y
     
     if [ $? -eq 0 ]; then
