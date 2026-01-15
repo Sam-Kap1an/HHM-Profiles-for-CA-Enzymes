@@ -48,6 +48,7 @@ else
         jupyter \
         notebook \
         ipykernel \
+        seaborn \
         matplotlib \
         -y
     
