@@ -49,6 +49,7 @@ else
         notebook \
         ipykernel \
         seaborn \
+        joblib \
         matplotlib \
         -y
     
