@@ -50,6 +50,7 @@ else
         ipykernel \
         seaborn \
         joblib \
+        scikit-learn \
         tqdm \
         matplotlib \
         -y
