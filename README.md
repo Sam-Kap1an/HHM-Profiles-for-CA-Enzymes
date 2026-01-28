@@ -93,9 +93,12 @@ This notebook performs comprehensive evaluation:
 |----------------|-------------|
 | `OG_Labels/` | Original family labels from literature and databases |
 | `filtered_sets_per_class/` | Curated, quality-controlled sequences for each CA family used in HMM training |
-| `new_labels/` | Classification predictions and confidence scores for UniProt sequences |
+| `new_labels/` | More labeled sequences for stronger profiles |
 | `8ca-1024.aln-fasta` | Reference multiple sequence alignment |
 | `uniprotkb_carbonic_anhydrase_*.fasta` | Raw UniProt carbonic anhydrase sequences |
+*Not Included*
+| `OUTPUT/` | Location of all plots and subsequent CSVs. Excluded from repo due to size constraints |
+
 
 ## Output
 
@@ -104,32 +107,15 @@ After running the pipeline, `new_labels/` will contain:
 - `06_dirs_heldout_predictions.csv` — Held-out evaluation results
 - `06_dirs_confusion_matrix.csv` — Classification confusion matrix
 
-## CA Families
-
-| Family | Description |
-|--------|-------------|
-| α (alpha) | Found in mammals, most extensively studied |
-| β (beta) | Found in plants, bacteria, fungi |
-| γ (gamma) | Found in archaea and bacteria |
-| δ (delta) | Found in marine diatoms |
-| ζ (zeta) | Found in marine diatoms (cadmium-binding) |
-| η (eta) | Found in Plasmodium species |
-| θ (theta) | Found in marine diatoms |
-| ι (iota) | Recently discovered, found in marine bacteria |
-
 ## Citation
 
 If you use this pipeline or the trained HMM profiles, please cite:
 ```
-[Your thesis citation here]
+TBD :)
 ```
-
-## License
-
-[Add your license here]
 
 ## Contact
 
-Sam Kaplan  
+Samuel Kaplan  
 Cal Poly Computational and Molecular Sciences Research Lab  
-[Your email]
+sfkaplan@calpoly.edu
