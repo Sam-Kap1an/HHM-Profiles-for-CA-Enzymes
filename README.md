@@ -38,7 +38,7 @@ Carbonic anhydrases catalyze the reversible hydration of CO₂ and have evolved 
 Run the provided bash script to configure the conda environment with all required dependencies:
 ```bash
 chmod +x environment_config.sh
-./environment_config.sh
+source environment_config.sh
 ```
 
 This installs:
@@ -49,8 +49,9 @@ This installs:
 - Jupyter
 
 ### Activate Environment
+Script should activate the Env however it can also be activated using
 ```bash
-conda activate ca-hmm  # or whatever name is specified in the script
+conda activate HMMER_ENV
 ```
 
 ## Usage
