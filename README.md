@@ -22,7 +22,7 @@ Carbonic anhydrases catalyze the reversible hydration of CO₂ and have evolved 
 ├── uniprotkb_carbonic_anhydrase_2025_08_22.fasta  # UniProt CA sequences
 ├── OG_Labels/                     # Original sequence labels
 ├── filtered_sets_per_class/       # Curated sequences per CA family
-├── new_labels/                    # Classification results and predictions
+├── new_labels/                    # Additional manually curated sequnces 
 └── README.md
 ```
 
