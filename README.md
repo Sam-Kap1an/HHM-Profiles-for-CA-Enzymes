@@ -101,8 +101,8 @@ This notebook performs comprehensive evaluation:
 
 ## Output
 
-After running the pipeline, `new_labels/` will contain:
-- `uniprot_first_150000_labels_with_confidence.csv` — Classifications with E-values and confidence scores
+After running the pipeline, `OUTPUT/` will contain:
+- `results/uniprot_first_150000_labels_with_confidence.csv` — Classifications with E-values and confidence scores
 - `06_dirs_heldout_predictions.csv` — Held-out evaluation results
 - `06_dirs_confusion_matrix.csv` — Classification confusion matrix
 
