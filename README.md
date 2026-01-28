@@ -96,8 +96,7 @@ This notebook performs comprehensive evaluation:
 | `new_labels/` | More labeled sequences for stronger profiles |
 | `8ca-1024.aln-fasta` | Reference multiple sequence alignment |
 | `uniprotkb_carbonic_anhydrase_*.fasta` | Raw UniProt carbonic anhydrase sequences |
-*Not Included*
-| `OUTPUT/` | Location of all plots and subsequent CSVs. Excluded from repo due to size constraints |
+| *Not Included* `OUTPUT/` | Location of all plots and subsequent CSVs. Excluded from repo due to size constraints |
 
 
 ## Output
