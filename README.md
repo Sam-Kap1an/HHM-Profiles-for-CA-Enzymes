@@ -98,12 +98,15 @@ This notebook performs comprehensive evaluation:
 | `8ca-1024.aln-fasta` | Reference multiple sequence alignment |
 | `uniprotkb_carbonic_anhydrase_*.fasta` | Raw UniProt carbonic anhydrase sequences |
 | `OUTPUT/` | Location of all plots and subsequent CSVs. Excluded from repo due to size constraints |
+| `OUTPUT/results/uniprot_first_150000_labels_with_confidence.csv` | Classifications with E-values and confidence scores |
+| `OUTPUT/hmmer_lib/all_classes.hmm` | HMM Proflies |
 
 
 ## Output
 
 After running the pipeline, `OUTPUT/` will contain:
 - `results/uniprot_first_150000_labels_with_confidence.csv` — Classifications with E-values and confidence scores (This is already included)
+- `hmmer_lib/all_classes.hmm` — HMM Proflies (This is already included)
 - `06_dirs_heldout_predictions.csv` — Held-out evaluation results
 - `06_dirs_confusion_matrix.csv` — Classification confusion matrix
 
