@@ -241,7 +241,7 @@ TBD :)
 This project is released under the MIT License. See `LICENSE` file for details.
 
 ## Contact
-
+---
 **Samuel Kaplan**  
 California Polytechnic State University, San Luis Obispo  
 Computational and Molecular Sciences Research Lab  
