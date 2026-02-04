@@ -1,3 +1,5 @@
 OUTPUT/*
 !OUTPUT/results/uniprot_first_150000_labels_with_confidence.csv
 !OUTPUT/hmmer_lib/all_classes.hmm
+!OUTPUT/results/hmmscan_dirs_heldout.tbl
+!OUTPUT/results/hmmscan_dirs_heldout.domtbl
