@@ -253,6 +253,6 @@ BioInformatics Research Group
 
 ---
 
-**Acknowledgments:** This work was conducted at the Cal Poly Computational and Molecular Sciences Research Lab with support from the Computer Science and Biochemistry departments.
+**Acknowledgments:** This work was conducted at the Cal Poly Computational and Molecular Sciences Research Lab with support from the Computer Science and Biology departments.
 
 *Last updated: February 2025*
