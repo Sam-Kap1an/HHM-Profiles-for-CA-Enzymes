@@ -243,11 +243,14 @@ This project is released under the MIT License. See `LICENSE` file for details.
 ## Contact
 
 **Samuel Kaplan**
+
 California Polytechnic State University, San Luis Obispo  
 Computational and Molecular Sciences Research Lab  
-BioInformatics Research Group  
-sfkaplan@calpoly.edu  
-Advisors: Dr. Anderson, Dr. Oza,  Dr. Davidson
+BioInformatics Research Group
+
+- Email: sfkaplan@calpoly.edu  
+- Advisors: Dr. Anderson, Dr. Oza, Dr. Davidson
+
 ---
 
 **Acknowledgments:** This work was conducted at the Cal Poly Computational and Molecular Sciences Research Lab with support from the Computer Science and Biochemistry departments.
