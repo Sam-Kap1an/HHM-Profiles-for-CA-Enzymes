@@ -18,6 +18,7 @@ Carbonic anhydrases catalyze the reversible hydration of CO₂ and have evolved 
 ├── class_eval.ipynb               # Sequence preprocessing and EDA
 ├── balanced_hmms.py.ipynb         # HMM construction and initial validation
 ├── hmm_eval.ipynb                 # Comprehensive model analysis
+├── OUTPUT/results                 # Location of CSV containing the results of our classificaiton
 ├── 8ca-1024.aln-fasta             # Multiple sequence alignment file
 ├── uniprotkb_carbonic_anhydrase_2025_08_22.fasta  # UniProt CA sequences
 ├── OG_Labels/                     # Original sequence labels
@@ -96,13 +97,13 @@ This notebook performs comprehensive evaluation:
 | `new_labels/` | More labeled sequences for stronger profiles |
 | `8ca-1024.aln-fasta` | Reference multiple sequence alignment |
 | `uniprotkb_carbonic_anhydrase_*.fasta` | Raw UniProt carbonic anhydrase sequences |
-| *Not Included* `OUTPUT/` | Location of all plots and subsequent CSVs. Excluded from repo due to size constraints |
+| `OUTPUT/` | Location of all plots and subsequent CSVs. Excluded from repo due to size constraints |
 
 
 ## Output
 
 After running the pipeline, `OUTPUT/` will contain:
-- `results/uniprot_first_150000_labels_with_confidence.csv` — Classifications with E-values and confidence scores
+- `results/uniprot_first_150000_labels_with_confidence.csv` — Classifications with E-values and confidence scores (This is already included)
 - `06_dirs_heldout_predictions.csv` — Held-out evaluation results
 - `06_dirs_confusion_matrix.csv` — Classification confusion matrix
 
@@ -116,5 +117,6 @@ TBD :)
 ## Contact
 
 Samuel Kaplan  
-Cal Poly Computational and Molecular Sciences Research Lab  
+Cal Poly Computational and Molecular Sciences Research Lab 
+BioInformatics Research Group
 sfkaplan@calpoly.edu
