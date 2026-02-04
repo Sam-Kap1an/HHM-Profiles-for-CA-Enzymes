@@ -1,1 +1,2 @@
 OUTPUT/*
+!OUTPUT/results/uniprot_first_150000_labels_with_confidence.csv
