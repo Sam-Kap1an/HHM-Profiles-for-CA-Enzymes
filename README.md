@@ -235,11 +235,6 @@ If you use this pipeline or the trained HMM profiles in your research, please ci
 TBD :)
 ```
 
-
-## License
-
-This project is released under the MIT License. See `LICENSE` file for details.
-
 ## Contact
 
 **Samuel Kaplan**
@@ -249,7 +244,7 @@ Computational and Molecular Sciences Research Lab
 BioInformatics Research Group
 
 - Email: sfkaplan@calpoly.edu  
-- Advisors: Dr. Anderson, Dr. Oza, Dr. Davidson
+- Advisors: Dr. Anderson(pander14@calpoly.edu), Dr. Oza(joza@calpoly.edu), Dr. Davidson(jdavid06@calpoly.edu)
 
 ---
 
