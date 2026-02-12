@@ -9,8 +9,8 @@ Carbonic anhydrases catalyze the reversible hydration of CO₂ and have evolved 
 **Key Results:**
 - 8 family-specific HMM profiles trained on curated sequences (575 total sequences)
 - 100% classification accuracy on held-out test sequences (n=119)
-- Successfully classified ~148,000 UniProt CA sequences
-- 94.8% of sequences assigned to a family; 5.2% returned as NO_HIT
+- Successfully classified ~140,000 UniProt CA sequences
+- 94.8% of sequences assigned to a family; 5.2% returned as "NO_HIT" or inconclusive  
 
 ## Repository Structure
 
